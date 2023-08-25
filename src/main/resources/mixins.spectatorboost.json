@@ -1,0 +1,12 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.nixuge.spectatorboost.mixins",
+  "refmap": "refmap.spectatorboost.json",
+  "mixins": [],
+  "client": [
+    "player.EntityPlayerAccessor",
+    "player.PlayerCapabilitiesMixin",
+    "player.PlayerMixin"
+  ],
+  "server": []
+}
