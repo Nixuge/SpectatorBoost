@@ -1,2 +1,2 @@
 # SpectatorBoost
-A simple 1.9.4 Forge mod to make Funcraft & other servers think you're on the AZ Launcher
+A mod that lets you fly faster as a spectator.
